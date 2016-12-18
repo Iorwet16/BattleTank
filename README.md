@@ -1,2 +1,2 @@
 # BattleTank
-Tank fight
+Tank fight, nothing special.
